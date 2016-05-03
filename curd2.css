@@ -1,0 +1,15 @@
+.container{
+    	margin-: auto;
+        width: 90%;
+	}
+	.form-group{
+	    width: 100%;
+	}
+	.result{
+	text-align: center;
+	border-top-style:solid;
+	}
+    .col-xs-4{
+    border-right-color: grey;
+    border-right-style: solid;
+    }
